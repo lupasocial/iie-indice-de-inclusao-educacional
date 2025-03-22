@@ -9,11 +9,15 @@
 # User-specific files
 .Ruserdata
 
+# Bases de dados grandes
+**/bases intermediárias extraídas da Sedap/
+
 # Example code in package build process
 *-Ex.R
 
 # Output files from R CMD build
 /*.tar.gz
+
 
 # Output files from R CMD check
 /*.Rcheck/
