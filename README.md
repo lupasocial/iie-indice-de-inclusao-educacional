@@ -65,7 +65,7 @@ Na pasta "estudos" temos reunidos os estudos já realizados com o IIE.
 
 ## Resultados e código
 
-Temos uma pasta "resultados" com os resultados para os IIE 2017, 2019 e 2021 já computados e o código divulgado em seu formato genérico no R para replicação do que já foi feito e disseminação de conhecimento e metodologia.
+Temos uma pasta "resultados" com os resultados para os IIE 2013, 2015, 2017, 2019 e 2021 já computados e o código divulgado em seu formato genérico no R para replicação do que já foi feito e disseminação de conhecimento e metodologia.
 
 
 
