@@ -4,7 +4,7 @@
 
 ## Contexto
 
-O Instituto Natura tem investido esforços para a promoção de conhecimento e evidências da educação básica brasileira em suas diferentes segmentações, como educação infantil, alfabetização nos primeiros anos do ensino fundamental e ensino médio integral, assim como métricas que permitam a leitura da trajetória escolar básica completa. O objetivo desses esforços é aprimorar a visão integrada da educação, para apoiar o seu desenvolvimento tendo como horizonte a qualidade educacional com equidade de gênero, raça e diversidade.
+Esforços têm sido direcionados para a promoção de conhecimento e evidências sobre a educação básica brasileira em suas diferentes segmentações, como educação infantil, alfabetização nos primeiros anos do ensino fundamental e ensino médio integral, além do desenvolvimento de métricas que permitam a análise da trajetória escolar básica completa. Esses esforços visam aprimorar uma visão integrada da educação, apoiando seu desenvolvimento com foco na qualidade educacional e na equidade de gênero, raça e diversidade.
 
 No que se refere às métricas sobre as trajetórias escolares, o Instituto tem investido na produção de construtos analíticos que visam aferir com maior precisão a qualidade da educação básica considerando informações sobre acesso, permanência e desempenho dos estudantes brasileiros.
 
