@@ -6,12 +6,11 @@
 
 Esforços têm sido direcionados para a promoção de conhecimento e evidências sobre a educação básica brasileira em suas diferentes segmentações, como educação infantil, alfabetização nos primeiros anos do ensino fundamental e ensino médio integral, além do desenvolvimento de métricas que permitam a análise da trajetória escolar básica completa. Esses esforços visam aprimorar uma visão integrada da educação, apoiando seu desenvolvimento com foco na qualidade educacional e na equidade de gênero, raça e diversidade.
 
-No que se refere às métricas sobre as trajetórias escolares, o Instituto tem investido na produção de construtos analíticos que visam aferir com maior precisão a qualidade da educação básica considerando informações sobre acesso, permanência e desempenho dos estudantes brasileiros.
+No que se refere às métricas sobre as trajetórias escolares, investimos na produção de construtos analíticos que visam aferir com maior precisão a qualidade da educação básica considerando informações sobre acesso, permanência e desempenho dos estudantes brasileiros.
 
-Nesse contexto, é criado o Índice de Inclusão Educacional (IIE). Esse índice representa a proporção dos nascidos em um determinado ano que concluiu o ensino médio com até 18 anos, com o nível de proficiência básico ou mais, conforme o SAEB.
+Nesse contexto, foi criado o Índice de Inclusão Educacional (IIE). Esse índice representa a proporção dos nascidos em um determinado ano que concluiu o ensino médio com até 18 anos, com o nível de proficiência básico ou mais, conforme o SAEB.
 
-O IIE fornece uma leitura ampla do cenário educativo no nível dos estados, quantificando não apenas os estudantes com desempenho adequado, mas também os atrasados e/ou com baixo desempenho educacional, incorporando na análise, de forma inovadora, aqueles que evadiram ao longo da trajetória escolar e são, comumente, ignorados nas análises educacionais.
-
+O IIE fornece uma leitura ampla do cenário educativo no nível dos estados, quantificando não apenas os estudantes com desempenho adequado, mas também os atrasados e/ou com baixo desempenho educacional. Ele incorpora na análise, de forma inovadora, aqueles que evadiram ao longo da trajetória escolar e são, comumente, ignorados nas análises educacionais. O IIE é projetado para o acompanhamento de gerações sucessivas, permitindo monitorar a evolução intergeracional dos indicadores educacionais e identificar padrões que possam orientar políticas públicas mais eficazes e inclusivas.
 
 ## Metodologia
 
